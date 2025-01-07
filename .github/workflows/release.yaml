@@ -29,14 +29,14 @@ jobs:
         id: node-cache
         uses: actions/cache@v3
         with:
-          path: '**/node_modules'
+          path: "**/node_modules"
           key: yarn-${{ hashFiles('yarn.lock') }}-${{ hashFiles('package.json') }}
           restore-keys: yarn-
 
       - name: Setup turbo cache
         uses: actions/cache@v3
         with:
-          path: '.turbo'
+          path: ".turbo"
           key: turbo-${{ github.ref_name }}-${{ github.sha }}
           restore-keys: |
             turbo-${{ github.ref_name }}-
