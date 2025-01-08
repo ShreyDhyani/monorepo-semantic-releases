@@ -1,5 +1,12 @@
 
 
+## [0.5.0](https://github.com/ShreyDhyani/monorepo-semantic-releases/compare/lib-b-v0.4.0...lib-b-v0.5.0) (2025-01-08)
+
+
+### Features
+
+* Added sample variable ([6c44bb9](https://github.com/ShreyDhyani/monorepo-semantic-releases/commit/6c44bb98e88bbe731977d6c9b6017c40d2fdddda))
+
 ## 0.4.0 (2025-01-07)
 
 
