@@ -1,5 +1,12 @@
 
 
+## [0.4.0](https://github.com/ShreyDhyani/monorepo-semantic-releases/compare/lib-c-v0.3.0...lib-c-v0.4.0) (2025-01-08)
+
+
+### Features
+
+* Added sample logs in lib-c ([21926d0](https://github.com/ShreyDhyani/monorepo-semantic-releases/commit/21926d03a9dda8d83107e005ca1926d5f68d02db))
+
 ## 0.3.0 (2025-01-07)
 
 
