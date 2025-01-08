@@ -1,5 +1,12 @@
 
 
+## [0.4.0](https://github.com/ShreyDhyani/monorepo-semantic-releases/compare/lib-a-v0.3.0...lib-a-v0.4.0) (2025-01-08)
+
+
+### Features
+
+* sample code ([6810e75](https://github.com/ShreyDhyani/monorepo-semantic-releases/commit/6810e75dedb027f67204f4cca2c3db390dae4a57))
+
 ## 0.3.0 (2025-01-07)
 
 
