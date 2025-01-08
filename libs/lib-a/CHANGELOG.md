@@ -1,5 +1,12 @@
 
 
+## [0.6.0](https://github.com/ShreyDhyani/monorepo-semantic-releases/compare/lib-a-v0.5.0...lib-a-v0.6.0) (2025-01-08)
+
+
+### Features
+
+* Added console.log for sample in lib-a ([de1d69d](https://github.com/ShreyDhyani/monorepo-semantic-releases/commit/de1d69da6700cc703e4e4c2e77d684e4c4654101))
+
 ## [0.5.0](https://github.com/ShreyDhyani/monorepo-semantic-releases/compare/lib-a-v0.4.0...lib-a-v0.5.0) (2025-01-08)
 
 
